@@ -149,4 +149,6 @@ int main()
     {
         lex();
     } while (nextToken != END_OF_FILE);
+
+    cin >> input;
 }
